@@ -7,6 +7,7 @@ st.set_page_config(
     layout="wide",
 )
 
+
 def afficher_connexion(client):
     st.title("🩺 Registres numériques de santé")
     st.caption("Plateforme de gestion et de suivi des registres des postes de santé.")
